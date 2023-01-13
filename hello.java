@@ -4,8 +4,8 @@ class forLoopDemo {
 	{
 		// Writing a for loop
 		// to print Hello World 5 times
-		for (int i = 1; i <= 5; i++)
-			System.out.println("Hello World");
+		for (int i = 1; i <=15; i++)
+			System.out.println("Hello devops pune engineers") ;
 	}
 }
 
